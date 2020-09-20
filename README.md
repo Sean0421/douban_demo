@@ -1,2 +1,0 @@
-# favorcate_demo
-这个项目是学习自coderwhy老师的美食广场
